@@ -1,4 +1,4 @@
-# Estimating Time-Series Changes in Social Sensitivity for the COVID-19 @ Twitter in the United States
+# Estimating Time-series Changes in Social Sentiment @Twitter in U.S. Metropolises During the COVID-19 Pandemic
 
 This repository contains the output data for the currently peer-reviewed original article, "Estimating Time-series Changes in Social Sentiment @Twitter in U.S. Metropolises During the COVID-19 Pandemic".
 
