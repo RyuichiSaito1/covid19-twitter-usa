@@ -9,3 +9,5 @@ The collection data folder contains tweets collected using the Twitter API and t
 | 1 | Stay-at-home |
 | 2 | Restriction-on-gatherings |
 | 3 | Travel-restrictions |
+
+The URL to the article will also be available after publication in the journal.
