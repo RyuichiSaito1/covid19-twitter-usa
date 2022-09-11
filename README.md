@@ -6,8 +6,8 @@ The collection data folder contains tweets collected using the Twitter API and t
 
 | Folder No.| Types of Collection and Inference |
 | --- | --- |
-| 1 | Stay-at-home |
-| 2 | Restriction-on-gatherings |
-| 3 | Travel-restrictions |
+| 1 | Tweets Related to Stay-at-home |
+| 2 | Tweets Related to Restriction-on-gatherings |
+| 3 | Tweets Related to Travel-restrictions |
 
 The URL to the article will also be available after publication in the journal.
