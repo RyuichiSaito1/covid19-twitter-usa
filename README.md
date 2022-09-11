@@ -4,7 +4,7 @@ This repository contains the input and output data for the currently peer-review
 
 The collection data folder contains tweets collected using the Twitter API and the result folder consists of folders tweets sentiment-classified by BERT and GPT-3 and TF-IDF results. The folder of collection data and estimation data consists of 1 to 3 folders, which numbers mean citizens' activities are limited by the government below.
 
-| Folder | Types of Collection and Inference |
+| Folder No.| Types of Collection and Inference |
 | --- | --- |
 | 1 | Stay-at-home |
 | 2 | Restriction-on-gatherings |
