@@ -4,7 +4,8 @@ This repository contains the input and output data for the currently peer-review
 
 The collection data folder contains tweets collected using the Twitter API. The result folder consists of folders tweets sentiment-classified by BERT and GPT-3 and TF-IDF results.
 
-| Command | Description |
+| folder | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| 1 | Stay-at-home |
+| 2 | Restriction-on-gatherings |
+| 3 | Travel-restrictions |
