@@ -1,4 +1,4 @@
-## Estimating Time-series Changes in Social Sentiment @Twitter in U.S. Metropolises During the COVID-19 Pandemic
+## Estimating time-series changes in social sentiment @Twitter in U.S. metropolises during the COVID-19 pandemic
 
 This repository contains the input and output data for the currently peer-reviewed original article, Ryuichi Saito and Shinichiro Haruyama, "Estimating Time-series Changes in Social Sentiment @Twitter in U.S. Metropolises During the COVID-19 Pandemic" in 2022.
 
