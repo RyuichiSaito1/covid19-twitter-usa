@@ -1,6 +1,6 @@
 ## Estimating time-series changes in social sentiment @Twitter in U.S. metropolises during the COVID-19 pandemic
 
-This repository contains the input and output data for the research article entitled [Estimating time-series changes in social sentiment @Twitter in U.S. metropolises during the COVID-19 pandemic" by Ryuichi Saito and Shinichiro Haruyama](10.1007/s42001-022-00186-4). The article is published in Journal of Computational Social Science in 2022. 
+This repository contains the input and output data for the research article entitled [Estimating time-series changes in social sentiment @Twitter in U.S. metropolises during the COVID-19 pandemic by Ryuichi Saito and Shinichiro Haruyama](10.1007/s42001-022-00186-4). The article is published in Journal of Computational Social Science in 2022. 
 
 The collection_data folder contains tweets collected using the Full-archive Search API of Twitter API v2 and the result folder consists of folders tweets sentiment classified by the BERT model and the GPT-3 model and TF-IDF results. The folder of collection data and estimation data consists of 1 to 3 folders, which numbers mean types of state-government orders that restricted citizens' activities.
 
